@@ -1,6 +1,6 @@
 from itertools import product
 
-from gymnasium import register
+from gym import register
 
 
 sizes = range(5, 20)

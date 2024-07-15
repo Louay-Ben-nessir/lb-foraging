@@ -8,7 +8,7 @@ import sys
 
 import numpy as np
 import six
-from gymnasium import error
+from gym import error
 
 if "Apple" in sys.version:
     if "DYLD_FALLBACK_LIBRARY_PATH" in os.environ:

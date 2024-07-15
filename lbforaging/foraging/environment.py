@@ -4,8 +4,8 @@ from itertools import product
 import logging
 from typing import Iterable
 
-import gymnasium as gym
-from gymnasium.utils import seeding
+import gym as gym
+from gym.utils import seeding
 import numpy as np
 
 
